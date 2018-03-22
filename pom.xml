@@ -25,7 +25,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <!--  roughly the version of tomcat used by connect (only used for standalone config) -->
         <tomcat.version>7.0.59</tomcat.version>
     </properties>
 
