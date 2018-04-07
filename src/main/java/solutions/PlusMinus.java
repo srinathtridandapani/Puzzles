@@ -3,7 +3,7 @@ package solutions;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Solution {
+public class PlusMinus {
 
     /*
      * Complete the plusMinus function below.
