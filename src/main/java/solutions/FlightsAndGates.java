@@ -18,8 +18,16 @@ public class FlightsAndGates {
 
     }
 
-    private static final Scanner scan = new Scanner(System.in);
 
+    /**
+     * Sample input and output
+     * Input
+     * Arrival - 900 940 950 1100 1500 1800
+     * Departure - 910 1200 1120 1130 1900 2000
+     *
+     * Output - 3
+     */
+    private static final Scanner scan = new Scanner(System.in);
     public static void main(String[] args) {
         int[] arr = new int[6];
         int[] dep = new int[6];
