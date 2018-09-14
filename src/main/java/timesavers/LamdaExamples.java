@@ -68,7 +68,7 @@ public class LamdaExamples {
 
     }
 
-    private static List<Employee> generateEmployees() {
+    public static List<Employee> generateEmployees() {
         Employee e1 = new Employee("James", 27, 45000, new Date(1535544887000l));
         Employee e2 = new Employee("Roger", 29, 55000, new Date(1504008887000l));
         Employee e3 = new Employee("Alex", 47, 65000, new Date(1501330487000l));
